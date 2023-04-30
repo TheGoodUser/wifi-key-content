@@ -4,7 +4,7 @@ html = r'''<!DOCTYPE html>
 <html>
 <head>
 	<title>wi-fi passwords</title>
-	<link rel="icon" type="image/x-icon" href="C:\Users\DELL\Desktop\0\YT\wifi-key-content\ant-icon.png">
+	<link rel="icon" type="image/x-icon" href="https://photos.google.com/share/AF1QipM72EgfTnVhACkEqt96_rVolDTjfWYssSvy3g1-uZeNsXHusHmriXovgsOAVRhrlQ/photo/AF1QipO1tZgOVXxx8grO5Ll7vw-T9gvI4Bt5XejIiC0c?key=UC0zNHhjVEVOMkZFVUw4VDB4RjM0aU5yUVpnTVFR">
 
 
 	<style type="text/css">
